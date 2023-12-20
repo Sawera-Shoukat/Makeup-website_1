@@ -1,0 +1,64 @@
+
+
+
+.dropdown a:hover{
+    background-color: palevioletred !important;
+    color: white !important;
+}
+.spcard{
+    overflow: hidden;
+}
+.spcard img:hover {
+    transform: scale(0.9);
+}
+.heading{
+    color: rgb(2, 2, 2);
+    margin-bottom: 2rem;
+}
+.card{
+    margin-bottom: 1rem !important;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+
+
+/* sale start */
+.sale{
+    background: url(images/makeup\ 1\ \(4\).jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    /* height: 40vh; */
+}
+.sale h1{
+    padding-top: 2rem;
+}
+
+
+
+/* brands */
+.brands span{color: palevioletred;}
+
+
+.signup-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin-top: 50px;
+  }
+
+  .signup-form h2 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .btn{
+    background-color: palevioletred;
+  }
+  a{
+    text-decoration: none;
+  }
